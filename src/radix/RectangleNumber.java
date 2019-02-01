@@ -1,13 +1,9 @@
-package sample;
+package radix;
 
 import javafx.scene.Group;
-import javafx.scene.paint.Color;
 import javafx.scene.paint.Paint;
 import javafx.scene.shape.Rectangle;
 import javafx.scene.text.Text;
-import javafx.scene.text.TextAlignment;
-
-import javax.swing.*;
 
 public class RectangleNumber extends Group {
 

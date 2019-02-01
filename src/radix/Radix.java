@@ -1,4 +1,4 @@
-package sample;
+package radix;
 
 import javafx.animation.SequentialTransition;
 import javafx.animation.TranslateTransition;
