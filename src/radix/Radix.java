@@ -81,7 +81,7 @@ public class Radix extends Group{
     }
 
     /**
-     * Find max value in arrayList
+     * Pronalazi maksimum u listi
      * @return
      */
     public int findMax(){
